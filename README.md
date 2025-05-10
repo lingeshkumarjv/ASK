@@ -1,4 +1,5 @@
 ASK
+
 AIM
 To perform Amplitude Shift Keying{ASK} using Python.
 
@@ -52,4 +53,6 @@ PROGRAM WAVEFRONT
 
 
 RESULT
+
 THUS THE ASK (Amplitude Shift Keying) IS PERFORMED USING PYTHON
+

@@ -60,10 +60,6 @@ plt.show()
 
 ## Output Waveform:![ask](https://github.com/user-attachments/assets/b323f357-abbc-4c7d-b760-b8536c093158)
 
-## OUTPUT GRAPH:![WhatsApp Image 2025-04-24 at 22 03 06_cccb76d9](https://github.com/user-attachments/assets/90cb2729-fa67-4ae6-aaf1-919fa6087d5f)
-
-
-
 
 
 ## Results:

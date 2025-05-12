@@ -1,9 +1,9 @@
-ASK
+# ASK
 
-AIM
+# AIM
 To perform Amplitude Shift Keying{ASK} using Python.
 
-APPARATUS REQUIRED
+# APPARATUS REQUIRED
 Python 3.x
 
 PROGRAM
@@ -48,11 +48,11 @@ plt.grid(True)
 
 plt.show()
 
-PROGRAM WAVEFRONT
+# PROGRAM WAVEFRONT
 ![image](https://github.com/user-attachments/assets/1acca875-c526-4014-8ffb-15f23c002dad)
 
 
-RESULT
+# RESULT
 
 THUS THE ASK (Amplitude Shift Keying) IS PERFORMED USING PYTHON
 
